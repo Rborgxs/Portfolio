@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to bottom, #ffff, #747474 50%, #292929 90%);
+    color: #ffff;
+    margin: 50px 50px 50px;
+    height: 100vh;
+    font-family: Arial;
+}
+
+a{
+    color: beige;
+}
+
+p{
+    text-align:justify;
+    font-family: Helvetica;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+    padding: 1%;
+    background-color: #292929;
+}
+header{
+    
+    text-align: center;
+    color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    color: #333333;
+    font-size: 50px;
+}
