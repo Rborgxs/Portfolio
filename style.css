@@ -6,6 +6,12 @@ body{
     font-family: Arial;
 }
 
+h5{
+    text-align: center;
+    margin-top: 10px;
+}
+
+
 a{
     color: beige;
 }
@@ -19,6 +25,7 @@ img{
     height: 200px;
     border-radius: 50%;
     margin: auto;
+    margin-bottom: 5%;
     display: block;
     padding: 1%;
     background-color: #292929;
