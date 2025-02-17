@@ -3,7 +3,6 @@ body{
     color: #ffff;
     margin: 50px 50px 50px;
     height: 100vh;
-    font-family: Arial;
 }
 
 h5{
@@ -40,4 +39,5 @@ h1{
     text-align: center;
     color: #333333;
     font-size: 50px;
+    font-family: Arial;
 }
